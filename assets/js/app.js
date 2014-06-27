@@ -247,7 +247,7 @@ var baseLayers = {
 
 var groupedOverlays = {
   "Points of Interest": {
-    "<img src='assets/img/station.png' width='24' height='28'>&nbsp;Theaters": stationLayer
+    "<img src='assets/img/station.png' width='24' height='28'>&nbsp;Fire Stations": stationLayer
   },
   "Reference": {
     "Battalions": battalions
